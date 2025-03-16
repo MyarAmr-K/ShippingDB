@@ -41,7 +41,7 @@ If you have suggestions for improvements or find any errors, feel free to open a
 
 ## Author
 
-[Your Name or GitHub Username]
+[(https://github.com/MyarAmr-K/)]
 
 ## License
 
